@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Michroma
+font link: https://fonts.google.com/specimen/Michroma
+font author: Vernon Adams
+font author site: http://sansoxygen.com/
+Slogan Font: Questrial-Regular.otf
+
+icon designer: Icons By Alfredo
+icon designer link: /creator/AlfredoCreates/
+        
+{"bg":"#5B54DD","icon":"#14E2B2","font":"#FFFFFF","slogan":"#ffffff"}
+      
